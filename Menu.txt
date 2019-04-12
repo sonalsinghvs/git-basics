@@ -3,8 +3,6 @@ Burritos
 Turey Sandwich
 Pizza
 Burger
-Sample test to be removed :: Sleeping
-tSample test to be removed :: Too much work
 
 Dinner:
 Pizza
