@@ -1,3 +1,17 @@
-Lunch
-Dinner
-Snacks
+Lunch:
+Burritos
+Turey Sandwich
+Pizza
+Burger
+Sample test to be removed :: Sleeping
+tSample test to be removed :: Too much work
+
+Dinner:
+Pizza
+Wine
+
+
+Snacks:
+Apple
+Banana
+Shakes
